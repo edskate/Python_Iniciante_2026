@@ -15,10 +15,3 @@ print("Faturamento:", faturamento)
 print("Custo:", custo)
 print("lucro", faturamento - custo - impost)
 print(Faturamento, faturamento)
-
-
-
-
-
-
- 
