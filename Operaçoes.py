@@ -28,3 +28,14 @@ tempo_em_meses = 160
 tempo_em_anos = tempo_em_meses // 12 # divisão inteira
 print(tempo_em_anos)
 print(tempo_em_meses % 12)
+
+# int 
+
+tempo_em_meses = 160
+tempo_em_anos = int (tempo_em_meses / 12) # divisão inteira
+print(tempo_em_anos, "anos")
+print(tempo_em_meses % 12, "meses")
+
+numero = 123.37
+print(round(numero))
+
